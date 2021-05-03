@@ -1,6 +1,6 @@
 # Handwritten-Recognition-Python
 
-##Python version:
+## Python version:
 python 3.6
 
 ## Python packages:
